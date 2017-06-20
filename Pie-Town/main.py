@@ -1,3 +1,4 @@
+# Author: Darius Strasel
 
 
 def get_pie_slices():
